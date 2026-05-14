@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+config/.env
+
+# IDE
+.vscode/
+.idea/
+
+# Output
+output/*.geojson
+
+# Claude Code
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Logs
+*.log
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
