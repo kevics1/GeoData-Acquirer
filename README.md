@@ -148,6 +148,3 @@ GeoData-Acquirer/
 
 MIT License
 
-## 作者
-
-开发者何夕2077 | 指导教师: 洪松 教授
